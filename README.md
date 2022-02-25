@@ -1,4 +1,4 @@
-SimpleVector
+# SimpleVector
 
 Учебный проект. Аналог std::vector на C++.
 В основе SimpleVector — массив в динамической памяти.
